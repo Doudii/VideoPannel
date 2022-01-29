@@ -1,0 +1,55 @@
+.lmj-header {
+	color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.lmj-title {
+	padding-left: 32px;
+}
+
+.container{
+	display: flex;
+	padding : 10px;
+	margin-top: 10px;
+}
+
+.centerHead{
+	align-items: center;
+	text-align: center;
+}
+
+.testcss{
+	/*background-color: #e9ecef;*/
+	color : #887abb;
+	font-weight: bold;
+	padding : 25px;
+}
+
+.buttonHeader{
+	background-color:#44c767;
+	border-radius:10px;
+	/*display:inline-block;*/
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:16px 67px;
+	/*text-decoration:none;
+	/*text-shadow:0px 1px 0px #2f6627;*/
+}
+
+/*
+.buttonHeader:hover {
+	background-color:#5cbf2a;
+}
+
+.buttonHeader:active {
+	position:relative;
+	top:1px;
+}*/
